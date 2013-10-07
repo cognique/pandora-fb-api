@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id= "uk.co.cognique.pandora"
+        versionCode="10"
+        version= "0.0.1">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Pandora App</name>
+
+    <description>
+        Pandora Dress Agency Game
+    </description>
+
+    <author href="http://cognique.co.uk" email="apps@cognique.co.uk">
+        Ed Williams
+    </author>
+
+</widget>
